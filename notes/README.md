@@ -1,0 +1,1 @@
+https://learning-rust.github.io/docs/a6.variable_bindings,constants_and_statics.html
